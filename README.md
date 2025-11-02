@@ -57,7 +57,7 @@ PetGram is designed to foster a positive space for pet lovers, supporting respon
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/gitusergb/petgram.git
+git clone https://github.com/gitusergb/PetGram.git
 ```
 
 2. **Navigate to the project folder:**
@@ -140,7 +140,7 @@ npm run preview
 
 ## Repository
 
-* **GitHub:** [https://github.com/gitusergb/petgram](https://github.com/gitusergb/petgram)
+* **GitHub:** [https://github.com/gitusergb/PetGram.git](https://github.com/gitusergb/PetGram.git)
 
 ***
 
