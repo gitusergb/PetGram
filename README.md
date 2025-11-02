@@ -26,9 +26,10 @@ PetGram is designed to foster a positive space for pet lovers, supporting respon
 
 > screenshots .
 >
-> <img src="https://your-image-link1.com" alt="PetGram Feed" height="300" />
-> <img src="https://your-image-link2.com" alt="Post Upload" height="300" />
-> <img src="https://your-image-link3.com" alt="Dark Mode" height="300" />
+> <img src="https://i.ibb.co/r2GYcvqf/pet1.png" alt="PetGram Feed" height="300" />
+> <img src="https://i.ibb.co/JRjJrGng/pet2.png" alt="PetGram Feed" height="300" />
+> <img src="https://i.ibb.co/zTh7SyMD/pet3.png" alt="Post Upload" height="300" />
+> <img src="https://i.ibb.co/3Lxkvmk/pet4.png" alt="Dark Mode" height="300" />
 
 ***
 
